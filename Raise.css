@@ -1,0 +1,92 @@
+body{
+    background-color: black;
+}
+.f1{
+    height: 700px;
+    width: 300px;
+    border: 3px solid white;
+    border-radius: 30px;
+    margin: auto;
+}
+.zero{
+    height: 15px;
+    width:15px;
+    border-radius: 20px;
+    background-color: white;
+    margin: auto;
+}
+h1{
+    font-size: 25px;
+    color: white;
+}
+.f2{
+    color: white;
+    position: relative;
+    bottom: 55px;
+    padding-left:250px;
+}
+.fa-camera{
+    margin: 12px;
+}
+.input-field{
+    width: 50%;
+    padding: 10px 60px;
+    border-radius: 50px;
+    background-color: #3930300f;
+    color: #ffffff;
+    position: relative;
+    bottom: 35px;   
+}
+.get{
+   color: rgba(11, 201, 11, 0.821); 
+}
+button{
+    border: solid  #ffffff 1px ;
+    border-radius: 30px;
+    padding: 5px 8px;
+    background-color: #3930300f;
+    color: #ffffff;
+    position: relative;
+    bottom:25px ;
+}
+.footer{
+    width:20%;
+    height: 60px;
+    position: fixed;
+    bottom:12px;
+    background-color: #3930300f; 
+    color: #ffffff ;
+    border-radius:25px ;
+    /*align-content: center;
+    justify-content:space-between;*/
+}
+.f4{
+    color: #ffffff;
+    display: flex;
+    position: relative;
+    bottom: 20px;
+}
+.fa-message{
+    margin:30px ;
+}
+.fa-whatsapp{
+    margin:25px ;
+}
+.fa-users{
+    margin:30px ;
+}
+.fa-phone{
+    margin:30px ;
+}
+p{
+    color: #ffffff;
+    display: inline;
+    position: relative;
+    bottom: 45px;
+    margin: 10px;
+}
+.btn{
+    padding: 8px 20px;
+    border-radius: 20px;
+    margin-left: 90px;
+}
